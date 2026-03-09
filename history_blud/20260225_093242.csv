@@ -1,0 +1,8 @@
+﻿1,Tambahkan data Master_Unit dengan data di Tab Table Master Unit,Tanggal Impor Data
+2.0,Buatkan Tabel Real_Belanja_BLUD,25/02/2026
+3.0,"Tambahkan menu impor data realisasi blud dari sumber data tab SD_Real_BLUD, dengan menambahkan tanggal impornya yg di isi sendiri. Yang di impor kolom yg berwarna kuning",25/02/2026
+4.0,Buatkan dashboard untuk realisasi belanja blud,25/02/2026
+5.0,"Buatkan Dashboard gabungan realisasi belanja + realisasi belanja blud, dengan menggabungkan data impor terakhir ditabel real_belanja dan real_belanja_blud",25/02/2026
+6.0,buat ada dua upload/imporan itu yang non blud dan yang blud,25/02/2026
+,buat 3 dashboard yang mana satu itu utama alias gabungan daripada blud dan non blud kemudian dashboard kedua blud dan dashboard ketiga dashboard non blud,25/02/2026
+,untuk history juga buat dua yang satu buat blud dan satu buat yang non blud,25/02/2026

@@ -1,0 +1,44 @@
+{
+  "admin": {
+    "password": "$2b$12$U3amCP4P8YWKXtykMpe2IuxkzUEV6oz9kqVEalA/Eb8LQJf1t.dWy",
+    "nama_lengkap": "Administrator Sistem",
+    "email": "admin@jatimprov.go.id",
+    "tgl_lahir": "1990-01-01",
+    "no_hp": "08123456789"
+  },
+  "rakha": {
+    "password": "$2b$12$N3VTZ0lyJnSl9lZG60kL0uqn9eVuvBJQ7nQmuAYUM7UA5rQ.g16Le",
+    "nama_lengkap": "Rakha Safa Pratama",
+    "email": "rakha@example.com",
+    "tgl_lahir": "2000-05-15",
+    "no_hp": "081234567890"
+  },
+  "zahwa12": {
+    "password": "$2b$12$HI2zeF7qd6.eujAUoqtDn.BY.K.KxGF9/UoAEw.1wadJ6Foh/s0hG",
+    "nama_lengkap": "Rakha Safa Pratama",
+    "email": "awliya@gmail.com",
+    "tgl_lahir": "2026-03-05",
+    "no_hp": "081231324132"
+  },
+  "rakhasafff": {
+    "password": "$2b$12$O10pqNR4FTCIHyeOPP4U9eI0HqVQk4BjhEIV7iEkte2qd2UDh0pg6",
+    "nama_lengkap": "rakha safa sadikin",
+    "email": "rakha@gmail.com",
+    "tgl_lahir": "2012-10-26",
+    "no_hp": "085231425341"
+  },
+  "pratama": {
+    "password": "$2b$12$4PP42gn/VwYC7ffZ79Dll.Q2rQzlfB/tm6zTTkKMDumfvVx9gWcwa",
+    "nama_lengkap": "Rakha Safa Pratama",
+    "email": "safa@gmail.com",
+    "tgl_lahir": "2018-09-07",
+    "no_hp": "08123142534"
+  },
+  "asifarahman": {
+    "password": "$2b$12$Bebe0vvPhpzNGCfYOoIltOKiUpwF2WCAbTubvcwYYhy9kcLnxYcMG",
+    "nama_lengkap": "Asifa Rahman Aulia",
+    "email": "asifarahman1502@gmail.com",
+    "tgl_lahir": "2005-02-15",
+    "no_hp": "081231423145"
+  }
+}

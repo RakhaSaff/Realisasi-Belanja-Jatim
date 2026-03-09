@@ -1,0 +1,164 @@
+{
+  "20260225_091455": {
+    "filename": "data_20260225_091455.csv",
+    "tanggal_impor": "25/02/2026",
+    "jumlah_skpd": 41,
+    "total_anggaran": 21918475602426.0,
+    "total_realisasi": 820903066.0,
+    "persen_realisasi": 0.0037452561979681655,
+    "tanggal_upload": "25/02/2026 09:14:55",
+    "is_blud": true,
+    "tahun_anggaran": 2026
+  },
+  "20260225_091533": {
+    "filename": "data_20260225_091533.csv",
+    "tanggal_impor": "25/02/2026",
+    "jumlah_skpd": 41,
+    "total_anggaran": 21918475602426.0,
+    "total_realisasi": 820903066.0,
+    "persen_realisasi": 0.0037452561979681655,
+    "tanggal_upload": "25/02/2026 09:15:33",
+    "is_blud": true,
+    "tahun_anggaran": 2026
+  },
+  "20260227_090811": {
+    "filename": "data_20260227_090811.csv",
+    "tanggal_impor": "24/02/2026",
+    "tahun_anggaran": 2026,
+    "jumlah_skpd": 68,
+    "total_anggaran": 3428723372719.0,
+    "total_realisasi": 198759907065.0,
+    "tanggal_upload": "27/02/2026 09:08:11",
+    "persen_realisasi": 5.796907054283067
+  },
+  "20260227_090852": {
+    "filename": "data_20260227_090852.csv",
+    "tanggal_impor": "24/02/2026",
+    "tahun_anggaran": 2026,
+    "jumlah_skpd": 68,
+    "total_anggaran": 3428723372719.0,
+    "total_realisasi": 198759907065.0,
+    "tanggal_upload": "27/02/2026 09:08:52",
+    "persen_realisasi": 5.796907054283067
+  },
+  "20260227_091141": {
+    "filename": "data_20260227_091141.csv",
+    "tanggal_impor": "24/02/2026",
+    "tahun_anggaran": 2026,
+    "jumlah_skpd": 68,
+    "total_anggaran": 3428723372719.0,
+    "total_realisasi": 198759907065.0,
+    "tanggal_upload": "27/02/2026 09:11:41",
+    "persen_realisasi": 5.796907054283067
+  },
+  "20260227_091716": {
+    "filename": "data_20260227_091716.csv",
+    "tanggal_impor": "24/02/2026",
+    "tahun_anggaran": 2026,
+    "jumlah_skpd": 68,
+    "total_anggaran": 3428723372719.0,
+    "total_realisasi": 198759907065.0,
+    "tanggal_upload": "27/02/2026 09:17:16",
+    "persen_realisasi": 5.796907054283067
+  },
+  "20260227_092036": {
+    "filename": "data_20260227_092036.csv",
+    "tanggal_impor": "24/02/2026",
+    "tahun_anggaran": 2026,
+    "jumlah_skpd": 66,
+    "total_anggaran": 0.0,
+    "total_realisasi": 198759898498.0,
+    "tanggal_upload": "27/02/2026 09:20:36",
+    "persen_realisasi": 0.0
+  },
+  "20260227_092106": {
+    "filename": "data_20260227_092106.csv",
+    "tanggal_impor": "24/02/2026",
+    "tahun_anggaran": 2026,
+    "jumlah_skpd": 66,
+    "total_anggaran": 0.0,
+    "total_realisasi": 198759898498.0,
+    "tanggal_upload": "27/02/2026 09:21:06",
+    "persen_realisasi": 0.0
+  },
+  "20260227_092259": {
+    "filename": "data_20260227_092259.csv",
+    "tanggal_impor": "24/02/2026",
+    "tahun_anggaran": 2026,
+    "jumlah_skpd": 66,
+    "total_anggaran": 0.0,
+    "total_realisasi": 198759898498.0,
+    "tanggal_upload": "27/02/2026 09:22:59",
+    "persen_realisasi": 0.0
+  },
+  "20260227_092656": {
+    "filename": "data_20260227_092656.csv",
+    "tanggal_impor": "24/02/2026",
+    "tahun_anggaran": 2026,
+    "jumlah_skpd": 66,
+    "total_anggaran": 0.0,
+    "total_realisasi": 198759898498.0,
+    "tanggal_upload": "27/02/2026 09:26:56",
+    "persen_realisasi": 0.0
+  },
+  "20260227_093142": {
+    "filename": "data_20260227_093142.csv",
+    "tanggal_impor": "24/02/2026",
+    "tahun_anggaran": 2026,
+    "jumlah_skpd": 66,
+    "total_anggaran": 0.0,
+    "total_realisasi": 198759898498.0,
+    "tanggal_upload": "27/02/2026 09:31:42",
+    "persen_realisasi": 0.0
+  },
+  "20260227_093931": {
+    "filename": "data_20260227_093931.csv",
+    "tanggal_impor": "24/02/2026",
+    "tahun_anggaran": 2026,
+    "jumlah_skpd": 66,
+    "total_anggaran": 0.0,
+    "total_realisasi": 198759898498.0,
+    "tanggal_upload": "27/02/2026 09:39:31",
+    "persen_realisasi": 0.0
+  },
+  "20260227_094018": {
+    "filename": "data_20260227_094018.csv",
+    "tanggal_impor": "24/02/2026",
+    "tahun_anggaran": 2026,
+    "jumlah_skpd": 66,
+    "total_anggaran": 0.0,
+    "total_realisasi": 198759898498.0,
+    "tanggal_upload": "27/02/2026 09:40:18",
+    "persen_realisasi": 0.0
+  },
+  "20260227_094423": {
+    "filename": "data_20260227_094423.csv",
+    "tanggal_impor": "24/02/2026",
+    "tahun_anggaran": 2026,
+    "jumlah_skpd": 66,
+    "total_anggaran": 0.0,
+    "total_realisasi": 198759898498.0,
+    "tanggal_upload": "27/02/2026 09:44:23",
+    "persen_realisasi": 0.0
+  },
+  "20260227_094841": {
+    "filename": "data_20260227_094841.csv",
+    "tanggal_impor": "24/02/2026",
+    "tahun_anggaran": 2026,
+    "jumlah_skpd": 66,
+    "total_anggaran": 0.0,
+    "total_realisasi": 198759898498.0,
+    "tanggal_upload": "27/02/2026 09:48:41",
+    "persen_realisasi": 0.0
+  },
+  "20260227_101002": {
+    "filename": "data_20260227_101002.csv",
+    "tanggal_impor": "24/02/2026",
+    "tahun_anggaran": 2026,
+    "jumlah_skpd": 66,
+    "total_anggaran": 0.0,
+    "total_realisasi": 198759898498.0,
+    "tanggal_upload": "27/02/2026 10:10:02",
+    "persen_realisasi": 0.0
+  }
+}
